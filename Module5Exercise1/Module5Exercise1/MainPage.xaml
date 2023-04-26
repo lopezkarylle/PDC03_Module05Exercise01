@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module5Exercise1.MainPage">
+
+    <StackLayout Margin="10">
+        <Label Text="DATE ME!"
+               Style="{DynamicResource TitleStyle}"
+               FontAttributes="Bold"
+               Margin="0, 20"
+               HorizontalTextAlignment="Center"
+               />
+
+        <Label Text="Know the Days between Dates"
+               Style="{DynamicResource SubtitleStyle}"
+               FontAttributes="Bold"
+               Margin="0, 20"
+               HorizontalTextAlignment="Center"
+               />
+
+        <Label Text="Choose the starting date: "/>
+        
+
+        <DatePicker x:Name="startDate"
+                    Format="D"
+                    Margin="30, 0, 0, 30"
+                    DateSelected="OnDateSelected" />
+
+        <Label Text="Choose the ending date: " />
+
+        <DatePicker x:Name="endDate"
+                    MinimumDate="{Binding Source={x:Reference startDate},Path=Date}"
+                    Format="D"
+                    Margin="30, 0, 0, 30"
+                    DateSelected="OnDateSelected" />
+
+        <StackLayout Orientation="Horizontal"
+                     Margin="0, 0, 0, 30">
+                     <Label Text="Toggle to count the days together with both dates: "
+                            VerticalOptions="Center" />
+            <Switch x:Name="toggleSwitch"
+                    Toggled="OnSwitchToggled" />
+        </StackLayout>
+
+        <Label x:Name="resultLabel"
+               Style="{DynamicResource SubtitleStyle}"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center" />
+
+    </StackLayout>
+
+</ContentPage>

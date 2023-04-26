@@ -1,0 +1,15 @@
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\bin\Debug\netstandard2.0\Module5Exercise1.deps.json
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\bin\Debug\netstandard2.0\Module5Exercise1.dll
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\bin\Debug\netstandard2.0\Module5Exercise1.pdb
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.csproj.AssemblyReference.cache
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.AssemblyInfoInputs.cache
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.AssemblyInfo.cs
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.dll
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\refint\Module5Exercise1.dll
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\Module5Exercise1.pdb
+C:\Users\User003\source\repos\Module5Exercise1\Module5Exercise1\Module5Exercise1\obj\Debug\netstandard2.0\ref\Module5Exercise1.dll
